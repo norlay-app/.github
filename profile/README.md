@@ -30,7 +30,7 @@ Version 27.0.0 is built and in final release checks. Downloads are not open yet.
 
 - Website: [norlay.fit](https://norlay.fit/)
 - Docs: [norlay.fit/docs](https://norlay.fit/docs)
-- Release downloads: [norlay-app/norlay-releases](https://github.com/norlay-app/norlay-releases)
+- Release downloads: [NorlayOfficial/norlay-releases](https://github.com/NorlayOfficial/norlay-releases)
 - Feedback: [norlay.fit/feedback](https://norlay.fit/feedback)
 - Facebook: [NorlayOfficial](https://www.facebook.com/NorlayOfficial)
 
