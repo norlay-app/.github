@@ -24,7 +24,7 @@ Version 27.0.0 is built and in final release checks. Downloads are not open yet.
 
 - **Accessibility first.** Screen reader support, keyboard navigation, and VoiceOver are part of the design, not a pass at the end.
 - **Privacy by default.** Local models where possible, and conversations saved on your Mac.
-- **Tools that earn their place.** The goal is not another name in your dock; every app should be useful enough to keep.
+- **Tools that earn their place.** The goal is not another icon you forget about; every app should be useful enough to keep.
 
 ## Where to find us
 
@@ -38,4 +38,4 @@ Version 27.0.0 is built and in final release checks. Downloads are not open yet.
 
 This organization hosts Norlay release downloads and release notes. The product source is not published here.
 
-Norlay is built independently by Yousef Elbanna. Norlay Code is built on the open-source [OpenCode](https://opencode.ai) project; Norlay is not affiliated with, endorsed by, or sponsored by OpenCode.
+Norlay is built independently by Yousef Elbanna. Norlay Code is its own app, built on the foundation of the open-source [OpenCode](https://opencode.ai) project. It is not affiliated with, endorsed by, or sponsored by OpenCode.
