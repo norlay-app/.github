@@ -1,0 +1,46 @@
+name: Feature request
+description: Suggest something a Norlay product should do.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        These are deliberately small products. A feature that makes an app do one
+        job better is easier to accept than one that adds a second job.
+
+  - type: dropdown
+    id: product
+    attributes:
+      label: Which product?
+      options:
+        - Norlay (Mac)
+        - Norlay Code
+        - Norlay Link Checker (NVDA add-on)
+        - Website
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Describe the situation you are in, not the implementation.
+    validations:
+      required: true
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: What you have in mind
+      description: Optional. How you imagine it working, especially with a screen reader and a keyboard.
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What you do instead today
+      description: Optional. Workarounds are useful evidence that the problem is real.
+    validations:
+      required: false

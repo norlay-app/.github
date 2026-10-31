@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security problem
+    url: https://github.com/NorlayOfficial/.github/blob/main/SECURITY.md
+    about: Please report security problems privately, never in a public issue.
+  - name: Norlay Link Checker
+    url: https://github.com/NorlayOfficial/norlay-link-checker/issues/new/choose
+    about: Bugs and requests for the NVDA add-on have their own form.
+  - name: Website feedback
+    url: https://norlay.fit/feedback
+    about: For anything about the website itself, the feedback form reaches the developer directly.
